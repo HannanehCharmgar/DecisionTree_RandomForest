@@ -20,7 +20,7 @@
 - هر گره یک شرط است
 - هر شاخه نتیجه‌ی آن شرط
 - و هر برگ، پاسخ نهایی
-![c573e3d2-d2a4-4183-a2b1-0630d2c1ecdd_720x405](https://github.com/user-attachments/assets/baf881e3-6da7-4f53-a777-5d51addcac77)
+![c573e3d2-d2a4-4183-a2b1-0630d2c1ecdd_600x350](https://github.com/user-attachments/assets/baf881e3-6da7-4f53-a777-5d51addcac77)
 
 
 
