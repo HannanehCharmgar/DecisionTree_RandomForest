@@ -16,7 +16,8 @@
   
   توضیح کدها و نحوه عملکرد آن‌ها 
 
-- `RandomForest_DecisionTree.md`  
+- `RandomForest_DecisionTree.md`
+  
   توضیح الگوریتم‌ های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 - `heart_disease.csv`  
  دیتاست مورد استفاده برای آموزش و تست مدل ها
