@@ -1,29 +1,16 @@
 # درخت تصمیم-جنگل تصادفی
 
-این ریپوزیتوری شامل پیاده‌سازی و توضیح الگوریتم‌های **Decision Tree** و **Random Forest** برای تحلیل داده‌های **بیماری قلبی** است.
+- DecisionTree_RandomForest.ipynb  
+  کد و خروجی‌ها برای پیاده‌سازی الگوریتم‌ها و تحلیل داده‌ها
 
----
+- DecisionTree_RandomForest.py  
+  نسخه پایتون پیاده‌سازی الگوریتم‌ها
 
-## ساختار فایل‌ها
+- Explanation of Algorithm Code.md  
+  توضیح کدها و نحوه عملکرد آن‌ها
 
-- `DecisionTree_RandomForest.ipynb`  
-  کد و خروجی‌ ها برای پیاده‌سازی الگوریتم‌ها و تحلیل داده‌ ها
+- RandomForest_DecisionTree.md  
+  توضیح الگوریتم‌های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 
-- `DecisionTree_RandomForest.py`  
-  نسخه **پایتون** پیاده‌سازی الگوریتم‌ها
-
-- `Explanation of Algorithm Code.md`
-  
-  توضیح کدها و نحوه عملکرد آن‌ها 
-
-- `RandomForest_DecisionTree.md`
-
- توضیح الگوریتم‌ های درخت تصمیم و جنگل تصادفی به صورت مفهومی
-- `heart_disease.csv`  
- دیتاست مورد استفاده برای آموزش و تست مدل ها
-
-
-
----
-
-
+- heart_disease.csv  
+  دیتاست مورد استفاده برای آموزش و تست مدل‌ها
