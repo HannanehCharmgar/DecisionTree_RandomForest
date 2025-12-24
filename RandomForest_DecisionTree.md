@@ -134,7 +134,8 @@
 > ترکیب چند مدل ضعیف → یک مدل قوی
 
 
-![bagging](https://gist.github.com/user-attachments/assets/fcfe9fed-b821-4c56-9ce9-1d014dc67e6d)
+![bagging](https://github.com/user-attachments/assets/3b30005f-367f-4d76-b7fc-fb3a154f247e)
+
 
 
 
