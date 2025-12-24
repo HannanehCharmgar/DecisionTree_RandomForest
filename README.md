@@ -12,12 +12,12 @@
 - `DecisionTree_RandomForest.py`  
   نسخه **پایتون** پیاده‌سازی الگوریتم‌ها
 
-- `Explanation of Algorithm Code.md`  
-  توضیح الگوریتم‌ های درخت تصمیم و جنگل تصادفی به صورت مفهومی 
+- `Explanation of Algorithm Code.md`
+  
+  توضیح کدها و نحوه عملکرد آن‌ها 
 
 - `RandomForest_DecisionTree.md`  
-  توضیح کدها و نحوه عملکرد آن‌ها
-
+  توضیح الگوریتم‌ های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 - `heart_disease.csv`  
  دیتاست مورد استفاده برای آموزش و تست مدل ها
 
