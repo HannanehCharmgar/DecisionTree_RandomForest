@@ -1,4 +1,4 @@
-# Decision Tree & Random Forest Project
+# درخت تصمیم-جنگل تصادفی
 
 این ریپوزیتوری شامل پیاده‌سازی و توضیح الگوریتم‌های **Decision Tree** و **Random Forest** برای تحلیل داده‌های **بیماری قلبی** است.
 
