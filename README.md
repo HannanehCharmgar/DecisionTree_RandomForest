@@ -12,6 +12,8 @@
 - `Explanation of Algorithm Code.md`  
   توضیح کدها و نحوه عملکرد آن‌ها
 
+  https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Explanation%20of%20Algorithm%20Code.md
+
 - `Explanation of Algorithms.md`  
   توضیح الگوریتم‌های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 
