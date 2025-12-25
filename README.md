@@ -1,8 +1,8 @@
 # محتویات فایل‌ها
 
 - `Code & Output.ipynb`  
-  کد و خروجی‌ها برای پیاده‌سازی الگوریتم‌ها و تحلیل داده‌ها
-  https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Code%20%26%20Output%20.ipynb
+  [کد و خروجی‌ها برای پیاده‌سازی الگوریتم‌ها و تحلیل داده‌ها](https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Code%20%26%20Output%20.ipynb)
+
 
 - `src.py`  
   نسخه پایتون پیاده‌سازی الگوریتم‌ها
