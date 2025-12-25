@@ -43,21 +43,25 @@
 
 ---
 
-## ساختار درخت تصمیم (نمایش متنی)
+## ساختار درخت تصمیم 
 
-            [Salary = High ?]
-               /          \
-            Yes            No
-            |              |
-    [Environment = Good ?] [Growth = Yes ?]
-         /        \            /        \
-      Yes          No        Yes          No
-      |             |          |            |
-  Accept Job   [Distance ?] [Environment ?] Reject Job
-                  /    \        /      \
-               Near    Far    Good     Bad
-                |       |       |        |
-            Accept   Reject  Accept    Reject
+           
+
+[Salary = High ?]
+├── Yes
+│   └── [Environment = Good ?]
+│       ├── Yes  → Accept Job
+│       └── No
+│           └── [Distance = Near ?]
+│               ├── Yes → Accept Job
+│               └── No  → Reject Job
+└── No
+    └── [Growth = Yes ?]
+        ├── Yes
+        │   └── [Environment = Good ?]
+        │       ├── Yes → Accept Job
+        │       └── No  → Reject Job
+        └── No → Reject Job
 
 
            
