@@ -81,7 +81,7 @@
    → Accept Job = Yes
 
 اگر Salary ≠ High و Growth = No  
-   → Accept Job = No
+    Accept Job = No!
 
 ---
 
