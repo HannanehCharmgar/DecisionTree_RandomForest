@@ -9,14 +9,12 @@
 
 
 - `Explanation of Algorithm Code.md`  
-  توضیح کدها و نحوه عملکرد آن‌ها
+  [توضیح کدها و نحوه عملکرد آن‌ها – Documentation](https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Explanation%20of%20Algorithm%20Code.md)
 
-  https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Explanation%20of%20Algorithm%20Code.md
 
 - `Explanation of Algorithms.md`  
   توضیح الگوریتم‌های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 
 - `heart_disease.csv`  
-  دیتاست مورد استفاده برای آموزش و تست مدل‌ها
+ [دیتاست مورد استفاده برای آموزش و تست مدل‌ها](https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/heart_disease.csv)
 
-  https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/heart_disease.csv
