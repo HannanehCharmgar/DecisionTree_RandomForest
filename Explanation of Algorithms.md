@@ -68,19 +68,19 @@
 
 ## قوانین استخراج‌شده از درخت (Decision Rules)
 
-1. اگر Salary = High و Environment = Good  
+اگر Salary = High و Environment = Good  
    → Accept Job = Yes
 
-2. اگر Salary = High و Environment = Bad و Distance = Near  
+اگر Salary = High و Environment = Bad و Distance = Near  
    → Accept Job = Yes
 
-3. اگر Salary = High و Environment = Bad و Distance = Far  
+اگر Salary = High و Environment = Bad و Distance = Far  
    → Accept Job = No
 
-4. اگر Salary ≠ High و Growth = Yes و Environment = Good  
+ اگر Salary ≠ High و Growth = Yes و Environment = Good  
    → Accept Job = Yes
 
-5. اگر Salary ≠ High و Growth = No  
+اگر Salary ≠ High و Growth = No  
    → Accept Job = No
 
 ---
