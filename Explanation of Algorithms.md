@@ -64,6 +64,42 @@
         └── No → Reject Job
 ```
 
+---
+
+## قوانین استخراج‌شده از درخت (Decision Rules)
+
+1. اگر Salary = High و Environment = Good  
+   → Accept Job = Yes
+
+2. اگر Salary = High و Environment = Bad و Distance = Near  
+   → Accept Job = Yes
+
+3. اگر Salary = High و Environment = Bad و Distance = Far  
+   → Accept Job = No
+
+4. اگر Salary ≠ High و Growth = Yes و Environment = Good  
+   → Accept Job = Yes
+
+5. اگر Salary ≠ High و Growth = No  
+   → Accept Job = No
+
+---
+
+## تفسیر مفهومی
+- هر گره یک سؤال است.
+- هر شاخه یک پاسخ ممکن است.
+- هر برگ (Leaf) یک تصمیم نهایی است.
+- درخت تصمیم تلاش می‌کند تصمیم‌گیری انسان را مدل کند.
+
+---
+
+## کاربرد در یادگیری ماشین
+- نوع الگوریتم: Supervised Learning
+- نوع مسئله: Classification
+- معیار انتخاب گره‌ها:
+  - Information Gain
+  - Gini Index
+
            
 📌 نکته مهم:  
 الگوریتم **به‌صورت خودکار** ترتیب سؤال‌ها را تعیین می‌کند.
