@@ -1,15 +1,16 @@
 # محتویات فایل‌ها
 
-- `DecisionTree_RandomForest.ipynb`  
+- `Code & Output.ipynb`  
   کد و خروجی‌ها برای پیاده‌سازی الگوریتم‌ها و تحلیل داده‌ها
+  https://github.com/HannanehCharmgar/DecisionTree_RandomForest/blob/main/Code%20%26%20Output%20.ipynb
 
-- `DecisionTree_RandomForest.py`  
+- `src.py`  
   نسخه پایتون پیاده‌سازی الگوریتم‌ها
 
 - `Explanation of Algorithm Code.md`  
   توضیح کدها و نحوه عملکرد آن‌ها
 
-- `RandomForest_DecisionTree.md`  
+- `Explanation of Algorithms.md`  
   توضیح الگوریتم‌های درخت تصمیم و جنگل تصادفی به صورت مفهومی
 
 - `heart_disease.csv`  
